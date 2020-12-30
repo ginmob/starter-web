@@ -3,3 +3,6 @@ This is 2nd line of the file
 
 This is actually the 4th line
 This is the 5th
+
+This is the 7th line
+This is the 8th line - uncommitted change
