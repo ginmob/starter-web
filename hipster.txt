@@ -1,2 +1,5 @@
 This is a new file called hispter text
 This is 2nd line of the file
+
+This is actually the 4th line
+This is the 5th
