@@ -1,5 +1,0 @@
-Line 1 inside level2-file.txt 
-
-Good afternoon
-Good afternoon
-

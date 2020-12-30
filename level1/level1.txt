@@ -1,4 +1,0 @@
-First line in Level1-file.txt
-
-Good morning
-Good morning
