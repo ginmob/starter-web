@@ -18,3 +18,6 @@ The 5th and last edition
 
 ### Copyright
 2014 Git.Training
+
+### Final Edition
+Final edition
