@@ -15,3 +15,6 @@ The 3rd edition
 ## Deployment (First edit)
 
 The 5th and last edition
+
+### Copyright
+2014 Git.Training
