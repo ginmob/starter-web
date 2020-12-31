@@ -1,6 +1,12 @@
 # Starter Web Repo
 
+<<<<<<< HEAD
 Modified this via Master branch
+=======
+
+
+Modifying this from simple-changes branch
+>>>>>>> simple-changes
 
 This repository is for showing how Git and GitHub work
 This is a simple website project for showing how to use Git and Github together
