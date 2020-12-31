@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mary Bob mary.bob@gmail.com
+
 
 # THANKS
 
